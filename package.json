@@ -1,0 +1,11 @@
+{
+  "name": "Helth",
+  "description": "Tells you when to stretch your wrist or eyes for MAXIMUM HELTH",
+  "version": "0.1",
+  "main": "index.js",
+  "bin": "bin.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^6.0.0"
+  }
+}

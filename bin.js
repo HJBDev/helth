@@ -1,0 +1,3 @@
+const helth = require('.');
+
+helth();
